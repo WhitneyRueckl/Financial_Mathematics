@@ -1,0 +1,11 @@
+,Feature,RFE,LinReg,Ridge,Lasso,RF,Mean
+0,two_month_realized_vol,0.56,0.0,1.0,1.0,0.0,0.51
+1,rank_one_lag,1.0,1.0,0.03,0.06,0.13,0.44
+2,rank_two_lag,0.78,1.0,0.03,0.03,0.05,0.38
+3,rank_change_one_lag,0.89,1.0,0.0,0.02,0.0,0.38
+4,five_day_realized_vol,0.67,0.0,0.56,0.45,0.0,0.34
+5,iv_change_one_lag,0.33,0.0,0.47,0.32,0.0,0.22
+6,vol_OI_combined,0.0,0.0,0.0,0.0,1.0,0.2
+7,scaled_return_one_lag,0.44,0.0,0.1,0.14,0.0,0.14
+8,rank_change_two_lag,0.22,0.0,0.01,0.02,0.0,0.05
+9,OIrank_one_lag,0.11,0.0,0.01,0.01,0.01,0.03
