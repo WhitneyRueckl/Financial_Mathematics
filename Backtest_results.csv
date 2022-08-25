@@ -1,0 +1,10 @@
+﻿,model,average,std_dev,minimum,maximum
+0,Rule based,0.635,0.1,0.307,0.882
+0,linear_regression,0.932,0.036,0.812,0.993
+0,lasso,0.933,0.036,0.808,0.993
+0,knn,0.998,0.006,0.927,1.021
+0,random_forest,0.998,0.006,0.927,1.021
+0,xg_model,0.998,0.006,0.925,1.019
+0,shallow_model_regL2,0.971,0.02,0.882,0.999
+0,deep_model_regL2,0.989,0.011,0.923,1
+0,deep_model_norm,0.998,0.006,0.926,1.021
